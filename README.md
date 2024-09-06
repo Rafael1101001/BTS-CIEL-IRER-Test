@@ -24,7 +24,7 @@ SELECT * FROM Users;
 ```Java
 void main()
 {
-    sysstem.out.println("Hello World");
+    system.out.println("Hello World");
 }
 ```
 
